@@ -1,8 +1,12 @@
 # #TrabajoEnITSIHay
+
 Welcome aboard, this is a website to help everyone work on their portfolio
 
 ## Tech Stack
+## Front-end
 We wil use Gatsby, because it has everything that Recruiters are working right now
+## Back-end (BBF)
+We are still reviewing what and how to consume it
 
 ### How do I start contributing
 
